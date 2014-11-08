@@ -1,4 +1,4 @@
-//http://acm.zjut.edu.cn/onlinejudge/problem.php?id=1255
+// http://acm.zjut.edu.cn/onlinejudge/problem.php?id=1255
 
 #pragma comment(liner, "/STACK:1024000000,1024000000")
 #include <cstdlib>
