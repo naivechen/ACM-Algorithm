@@ -89,7 +89,7 @@ int main()
     int i, j;
     while (~scanf("%d", &n))
     {
-        memset(g, ' ',sizeof(g));
+        memset(g,' ',sizeof(g));
         paint(1,n,0);
         for (i = 1; i <= n; i++)
         {
