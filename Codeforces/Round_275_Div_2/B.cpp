@@ -1,4 +1,4 @@
-//
+// http://codeforces.com/contest/483/problem/B
 
 #pragma comment(liner, "/STACK:1024000000,1024000000")
 #include <cstdlib>
