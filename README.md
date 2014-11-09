@@ -6,11 +6,10 @@ Work harder for my algorithm
 ###Attentiom:
 
 Codeforces: <br>
->>Round_275_Div_2 <br>
->>>>problem E , not solve <br>
->>Round_276_Div_2 <br>
->>>>problem B , not solve <br>
->>>>problem C , not solve <br>
->>>>problem D , not solve <br>
->>>>problem E , not solve <br>
-      
+&nbsp; &nbsp; Round_275_Div_2 <br>
+&nbsp; &nbsp; &nbsp; &nbsp; problem E , not solve <br>
+&nbsp; &nbsp; Round_276_Div_2 <br>
+&nbsp; &nbsp; &nbsp; &nbsp; problem B , not solve <br>
+&nbsp; &nbsp; &nbsp; &nbsp; problem C , not solve <br>
+&nbsp; &nbsp; &nbsp; &nbsp; problem D , not solve <br>
+&nbsp; &nbsp; &nbsp; &nbsp; problem E , not solve <br>
