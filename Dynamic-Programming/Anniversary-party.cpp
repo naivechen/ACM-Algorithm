@@ -1,5 +1,6 @@
 // http://poj.org/problem?id=2342
 
+
 #pragma comment(linker, "/STACK:1024000000,1024000000")
 #include <cstdlib>
 #include <cstdio>
