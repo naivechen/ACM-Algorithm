@@ -1,6 +1,5 @@
 // http://codevs.cn/problem/3145/
 
-
 #pragma comment(liner, "/STACK:1024000000,1024000000")
 #include <cstdlib>
 #include <cstdio>
